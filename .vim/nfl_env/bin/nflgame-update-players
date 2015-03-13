@@ -1,0 +1,4 @@
+#!/Users/jakerobinson-lieberman/.vim/nfl_env/bin/python
+
+import nflgame.update_players
+nflgame.update_players.run()

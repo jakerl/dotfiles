@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/jakerobinson-lieberman/.vim/jmcantrell-vim-virtualenv-0cc7614/autoload'
+let g:netrw_dirhist_2='/Users/jakerobinson-lieberman/.vim'
+let g:netrw_dirhist_3='/Users/jakerobinson-lieberman/.vim/indent'
+let g:netrw_dirhist_4='/Users/jakerobinson-lieberman/.cocoapods/repos/master/Specs/AnimatedGIFImageSerialization/0.2.0'
