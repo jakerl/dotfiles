@@ -31,3 +31,6 @@
    path = .vim/plugged/supertab
    url = https://github.com/ervandew/supertab
    ignore = dirty
+[submodule "vim/plugged/vim-snippets"]
+	path = vim/plugged/vim-snippets
+	url = https://github.com/honza/vim-snippets
