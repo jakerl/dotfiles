@@ -1,0 +1,161 @@
+commit bfdbf85342bbd636d68f830b6c75eecd66d415b2
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:40:52 2015 -0400
+
+    bleh
+
+commit ce4f01dad2e912eeecd80a52dd46cd929e4460dc
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:39:28 2015 -0400
+
+    dracula
+
+commit 5c523a1bec456256f6024d6add0e65f2a96a36fc
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:35:00 2015 -0400
+
+    spring cleaning
+
+commit b1231f479d612a551c3a82a458556988078e9537
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:31:18 2015 -0400
+
+    spring cleaning
+
+commit d1f7eb74ca0a32619e264702f11dee22439a802d
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:27:56 2015 -0400
+
+    ditched docs
+
+commit 9bd29ad8ed8e988e7704c4c93d951be1b0d92586
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:26:28 2015 -0400
+
+    bleh
+
+commit c8861900745c0113e12f342e54fc06440c756e9a
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:23:47 2015 -0400
+
+    bleh
+
+commit f58fc1bc8b53459d25d2693411023420a0070693
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:19:40 2015 -0400
+
+    bleh
+
+commit 2d1a7a5fdeefe7b70b0c782823a7436f9f495fca
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:16:28 2015 -0400
+
+    bleh
+
+commit 00def21fe457bdcafec302034661fedcb698e8bb
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:15:58 2015 -0400
+
+    bleh
+
+commit e1f96ce7236e9e78cb9dc8885c79d5812a6f943c
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:13:38 2015 -0400
+
+    bleh
+
+commit 48fc82f144f42ba4a43ae3ddf9d90502e794d82a
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:13:02 2015 -0400
+
+    bleh
+
+commit b357693319717683ebd6497390796fa9b919f621
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 17:10:41 2015 -0400
+
+    bleh
+
+commit 56ba91e8705362ca3a8a837a92cab0596378367a
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 16:38:21 2015 -0400
+
+    plugged
+
+commit 46658acf493d0d85f25521f8b43a137732066a10
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 16:37:28 2015 -0400
+
+    bleh
+
+commit fe3ee4233b4a8bc0ff04d7ddff56dc93468912dd
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 16:35:40 2015 -0400
+
+    bleh
+
+commit c75146cf771a762c3bcfb14d71ef9624d76f99a8
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 16:34:49 2015 -0400
+
+    bleh
+
+commit d7a455f3906477ff49da109bb7d97082b5e08b88
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 16:27:19 2015 -0400
+
+    gitmodules
+
+commit 0e68ea599f44e43f35e21d1383930d98391746e7
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 16:21:37 2015 -0400
+
+    plugged added
+
+commit c8c6effa90b90220647907464c59f373958e665f
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 16:20:55 2015 -0400
+
+    bleh
+
+commit 75e9f7d127139d3d261369fed62346f16937d440
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 16:06:57 2015 -0400
+
+    plugged
+
+commit 3479504d93904ec6d7ad9a8dcf78015aa7511554
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 16:01:32 2015 -0400
+
+    gitmodules
+
+commit 83cd20d84905e88ae76fc55f35d0e16ba082a7b0
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Sat Mar 14 15:52:37 2015 -0400
+
+    more plugs
+
+commit 6828beacfd3e694a2fdc71a8cccdff84bb957063
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Fri Mar 13 16:23:26 2015 -0400
+
+    YouCompleteMe
+
+commit b6dd344b8cd6257206d1b965c99211bcce30b0ec
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Fri Mar 13 16:07:39 2015 -0400
+
+    testing vim plugin
+
+commit b67712274494a929dc1c0658972c87dff954750b
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Fri Mar 13 09:37:46 2015 -0400
+
+    cleaned some python junk up
+
+commit c8254c23e6472a2c14505f5ae256415c685b2def
+Author: Jake Robinson-Lieberman <JakeRobinsonLieberman@gmail.com>
+Date:   Fri Mar 13 09:13:22 2015 -0400
+
+    testing the water(s)
