@@ -1,3 +1,0 @@
-colorscheme graybclear
-
-set spell
