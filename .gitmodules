@@ -37,3 +37,6 @@
 [submodule "dracula-theme"]
 	path = dracula-theme
 	url = https://github.com/zenorocha/dracula-theme
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh
