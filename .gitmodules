@@ -31,21 +31,28 @@
    path = .vim/plugged/supertab
    url = https://github.com/ervandew/supertab
    ignore = dirty
+
 [submodule "vim/plugged/vim-snippets"]
    path = vim/plugged/vim-snippets
    url = https://github.com/honza/vim-snippets
+
 [submodule "dracula-theme"]
    path = dracula-theme
    url = https://github.com/zenorocha/dracula-theme
+
 [submodule "oh-my-zsh"]
    path = oh-my-zsh
    url = https://github.com/robbyrussell/oh-my-zsh
+
 [submodule ".oh-my-custom-zsh/plugins/zsh-syntax-highlighting"]
    path = .oh-my-custom-zsh/plugins/zsh-syntax-highlighting
    url = https://github.com/zsh-users/zsh-syntax-highlighting
+
 [submodule ".vim/plugged/color_coded/"]
    path = .vim/plugged/color_coded/
    url = https://github.com/jeaye/color_coded
+   ignore = dirty
+
 [submodule ".vim/plugged/color_coded/lib/jest"]
    path = .vim/plugged/color_coded/lib/jest
    url = https://github.com/jeaye/jest
