@@ -1,5 +1,7 @@
 let g:tex_flavor='latex'
 
+set nu
+
 filetype plugin on
 filetype indent on
 syntax on
@@ -49,10 +51,10 @@ endfunction
 Plug 'Valloric/YouCompleteMe', { 'do': function('BuildYCM') }
 
 Plug 'SirVer/ultisnips'
-Plug 'honza/vim-snippets'
+" Plug 'honza/vim-snippets'
 Plug 'ervandew/supertab'
 " Plug 'scrooloose/syntastic'
 Plug 'tpope/vim-vinegar'
-Plug 'jeaye/color_coded'
+" Plug 'jeaye/color_coded'
 
 call plug#end()
