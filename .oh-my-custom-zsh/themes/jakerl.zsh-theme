@@ -1,7 +1,7 @@
 # Based on nebirhos's theme (which is based off of robbyrussell's), without rvm indicators.
 # @host ➜ currentdir git:(branchname)
 
-ARROW="%(?:%{$fg_bold[green]%} ➜ :%{$fg_bold[red]%}➜  %s)"
+ARROW="%(?:%{$fg_bold[green]%}➜ :%{$fg_bold[red]%}➜%s)"
 
 # Get the host name (first 4 chars)
 HOST_PROMPT_="%{$fg_bold[red]%}@$HOST[0,4] $ARROW %{$fg_bold[cyan]%}%c "
