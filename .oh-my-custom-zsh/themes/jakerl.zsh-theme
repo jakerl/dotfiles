@@ -4,7 +4,7 @@
 ARROW="%(?:%{$fg_bold[green]%}➜ :%{$fg_bold[red]%}➜ %s)"
 
 # Get the host name (first 4 chars)
-HOST_PROMPT_="%{$fg_bold[red]%}@$HOST[0,4] $ARROW %{$fg_bold[cyan]%}%c "
+HOST_PROMPT_="%{$fg_bold[red]%}@$HOST[0,4]:l $ARROW %{$fg_bold[cyan]%}%c "
 GIT_PROMPT="%{$fg_bold[blue]%}\$(git_prompt_info)%{$fg_bold[blue]%} % %{$reset_color%}"
 PROMPT="$HOST_PROMPT_$GIT_PROMPT"
 
