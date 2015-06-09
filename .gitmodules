@@ -43,6 +43,7 @@
 [submodule "oh-my-zsh"]
    path = oh-my-zsh
    url = https://github.com/robbyrussell/oh-my-zsh
+   ignore = dirty
 
 [submodule ".oh-my-custom-zsh/plugins/zsh-syntax-highlighting"]
    path = .oh-my-custom-zsh/plugins/zsh-syntax-highlighting
