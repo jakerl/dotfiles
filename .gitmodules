@@ -2,15 +2,6 @@
    path = dotbot
    url = https://github.com/anishathalye/dotbot
 
-[submodule ".vim/plugged/neocomplete"]
-   path = .vim/plugged/neocomplete
-   url = https://github.com/Shougo/neocomplete
-  
-
-[submodule ".vim/plugged/vim-snippets"]
-   path = .vim/plugged/vim-snippets
-   url = https://github.com/honza/vim-snippets
-
 [submodule "dracula-theme"]
    path = dracula-theme
    url = https://github.com/zenorocha/dracula-theme
@@ -23,3 +14,8 @@
 [submodule ".oh-my-custom-zsh/plugins/zsh-syntax-highlighting"]
    path = .oh-my-custom-zsh/plugins/zsh-syntax-highlighting
    url = https://github.com/zsh-users/zsh-syntax-highlighting
+
+# vim plugins
+[submodule ".vim/plugged/neocomplete"]
+   path = .vim/plugged/neocomplete
+   url = https://github.com/Shougo/neocomplete
