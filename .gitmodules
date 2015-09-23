@@ -3,8 +3,9 @@
    url = https://github.com/anishathalye/dotbot
 
 [submodule ".vim/plugged/neocomplete"]
-   path = .cd vim/plugged/neocomplete
-   url = https://github.com/vim/Shougo/neocomplete
+   path = .vim/plugged/neocomplete
+   url = https://github.com/Shougo/neocomplete
+  
 
 [submodule ".vim/plugged/vim-snippets"]
    path = .vim/plugged/vim-snippets
