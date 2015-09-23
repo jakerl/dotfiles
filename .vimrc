@@ -44,14 +44,14 @@ let g:neocomplete#lock_buffer_name_pattern = '\*ku\*'
 
 " define dictionary
 let g:neocomplete#sources#dictionary#dictionaries = {
-    \ 'default' : '',
-    \ 'vimshell' : $HOME.'/.vimshell_hist',
-    \ 'scheme' : $HOME.'/.gosh_completions'
-        \ }
+         \ 'default' : '',
+         \ 'vimshell' : $HOME.'/.vimshell_hist',
+         \ 'scheme' : $HOME.'/.gosh_completions'
+         \ }
 
 " define keyword
 if !exists('g:neocomplete#keyword_patterns')
-    let g:neocomplete#keyword_patterns = {}
+   let g:neocomplete#keyword_patterns = {}
 endif
 let g:neocomplete#keyword_patterns['default'] = '\h\w*'
 

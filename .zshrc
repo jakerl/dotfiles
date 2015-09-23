@@ -89,3 +89,6 @@ source $ZSH/oh-my-zsh.sh
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 source $HOME/.zsh-background-notify/bgnotify.plugin.zsh
 function google() { open /Applications/Safari.app/ "http://www.google.com/search?q= $1"; }
+
+# forces file to open in a new tab in the existing MacVim window
+alias mvim='open -a MacVim'
