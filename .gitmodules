@@ -19,3 +19,7 @@
 [submodule ".vim/plugged/neocomplete"]
    path = .vim/plugged/neocomplete
    url = https://github.com/Shougo/neocomplete
+
+[submodule ".vim/plugged/emmet-vim"]
+   path = .vim/plugged/emmet-vim
+   url = https://github.com/mattn/emmet-vim
