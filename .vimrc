@@ -21,26 +21,7 @@ set mouse=a
 
 nmap <F7> mzgg=G`z<CR>
 
-" make YCM compatible with UltiSnips (using supertab)
-" let g:ycm_key_list_select_completion = ['<C-n>', '<Down>']
-" let g:ycm_key_list_previous_completion = ['<C-p>', '<Up>']
-" let g:SuperTabDefaultCompletionType = '<C-n>'
-
-" better key bindings for UltiSnipsExpandTrigger
-" let g:UltiSnipsExpandTrigger = "<tab>"
-" let g:UltiSnipsJumpForwardTrigger = "<tab>"
-" let g:UltiSnipsJumpBackwardTrigger = "<s-tab>"
-
-" syntastic
-" set statusline+=%#warningmsg#
-" set statusline+=%{SyntasticStatuslineFlag()}
-" set statusline+=%*
-
-" let g:syntastic_always_populate_loc_list = 1
-" let g:syntastic_auto_loc_list = 1
-" let g:syntastic_check_on_open = 1
-" let g:syntastic_check_on_wq = 0
-
+" specify submodules in ~/.dotfiles/.gitmodules
 call plug#begin('~/.vim/plugged')
 
 " function! BuildYCM(info)
@@ -50,13 +31,7 @@ call plug#begin('~/.vim/plugged')
 " endfunction
 " Plug 'Valloric/YouCompleteMe', { 'do': function('BuildYCM') }
 
-" Plug 'SirVer/ultisnips'
-" Plug 'honza/vim-snippets'
-" Plug 'ervandew/supertab'
-" Plug 'scrooloose/syntastic'
-" Plug 'tpope/vim-vinegar'
-" Plug 'jeaye/color_coded'
-" Plug 'mattn/emmet-vim'
+Plug 'mattn/emmet-vim'
 
 Plug 'Shougo/neocomplete'
 
