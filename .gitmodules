@@ -31,8 +31,3 @@
    path = .vim/plugged/nerdcommenter
    url = https://github.com/scrooloose/nerdcommenter
 
-
-# dracula theme for vim 
-[submodule ".vim/plugged/dracula-theme"]
-   path = .vim/plugged/dracula-theme
-   url = https://github.com/zenorocha/dracula
