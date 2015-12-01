@@ -38,6 +38,9 @@ Plug 'Shougo/neocomplete'
 " the first 
 Plug 'jiangmiao/auto-pairs'
 
+" dracula color scheme
+Plug 'zenorocha/dracula-theme'
+
 " comments/uncomments lines
 Plug 'scrooloose/nerdcommenter'
 
