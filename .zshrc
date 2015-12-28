@@ -1,17 +1,18 @@
-# Path to your oh-my-zsh installation.
+# path to oh-my-zsh installation
 export ZSH=/Users/jakerobinson-lieberman/.dotfiles/oh-my-zsh
 
-# Set name of the theme to load.
-# Look in ~/.oh-my-zsh/themes/
-# Optionally, if you set this to "random", it'll load a random theme each
-# time that oh-my-zsh is loaded.
 
 # if oh-my-zsh/custom/ is not symlinked to /oh-my-custom-zsh/ (where 'exists' is located)
 # then run the install script that symlinks it
 if [[ ! -f "$ZSH/custom/themes/exists" ]]; then
+   print 'zsh updated - install symlinks'
    /Users/jakerobinson-lieberman/.dotfiles/install
 fi
 
+# set name of the theme to load.
+# look in ~/.oh-my-zsh/themes/
+# optionally, if you set this to "random", it'll load a random theme each
+# time that oh-my-zsh is loaded.
 export ZSH_THEME="jakerl"
 
 # Uncomment the following line to use case-sensitive completion.
