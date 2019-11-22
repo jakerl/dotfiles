@@ -30,3 +30,6 @@
 [submodule "terminal-app"]
 	path = terminal-app
 	url = https://github.com/dracula/terminal-app.git
+[submodule ".vim/plugged/vim-jdaddy"]
+	path = .vim/plugged/vim-jdaddy
+	url = https://github.com/tpope/vim-jdaddy

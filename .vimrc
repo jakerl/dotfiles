@@ -32,4 +32,6 @@ Plug 'jiangmiao/auto-pairs'
 " comments/uncomments lines
 Plug 'scrooloose/nerdcommenter'
 
+Plug 'tpope/vim-jdaddy'
+
 call plug#end()
