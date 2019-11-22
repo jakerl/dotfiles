@@ -53,7 +53,7 @@ export ZSH_THEME="robbyrussell"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=( git zsh-syntax-highlighting )
+plugins=( git zsh-syntax-highlighting notify)
 
 # User configuration
 
@@ -88,7 +88,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
-source $HOME/.zsh-background-notify/bgnotify.plugin.zsh
 function google() { open /Applications/Safari.app/ "http://www.google.com/search?q= $1"; }
 
 # forces file to open in a new tab in the existing MacVim window
