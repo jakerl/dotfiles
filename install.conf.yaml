@@ -1,5 +1,8 @@
 - clean: ['~']
 
+- shell:
+   - git submodule update --init --recursive
+
 - link:
     ~/.vim: .vim/
     ~/.vimrc: .vimrc
