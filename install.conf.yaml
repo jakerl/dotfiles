@@ -2,6 +2,7 @@
 
 - shell:
    - git submodule update --init --recursive
+   - mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 
 - link:
     ~/.vim: .vim/
@@ -10,6 +11,9 @@
     ./ohmyzsh/custom/jakerl.zsh-theme: .oh-my-custom-zsh/themes/jakerl.zsh-theme
     ./ohmyzsh/custom/plugins/zsh-syntax-highlighting: zsh-syntax-highlighting
     ./ohmyzsh/custom/plugins/notify: zsh-notify
+    ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Dracula.xccolortheme: xcode/Dracula.xccolortheme
 
 - shell:
    - /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   - brew install terminal-notifier
+   - brew install tmux
