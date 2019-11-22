@@ -11,11 +11,6 @@
 	url = https://github.com/zsh-users/zsh-syntax-highlighting
 
 # vim plugins
-# neocomplete - cached autocomplete
-[submodule ".vim/plugged/neocomplete"]
-   path = .vim/plugged/neocomplete
-   url = https://github.com/Shougo/neocomplete
-
 # auto-pair - pairs brackets, quotes, parantheses
 [submodule ".vim/plugged/auto-pairs"]
    path = .vim/plugged/auto-pairs

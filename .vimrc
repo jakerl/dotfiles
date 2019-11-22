@@ -1,19 +1,12 @@
 " set font to monofur in size 14
 set guifont=monofur:h14
 
-" type jk to leave insert mode, rather than <ESC>
-inoremap jk <ESC>
-
-" make space bar leader key, rather than \
-let mapleader = "\<Space>"
-
 filetype plugin indent on
 syntax on
 set encoding=utf-8
 
 " turn on line numbers
 set nu
-
 
 set expandtab
 set softtabstop=3
@@ -25,8 +18,6 @@ set cindent
 set formatoptions+=t
 
 set mouse=a
-
-nmap <F7> mzgg=G`z<CR>
 
 " specify submodule URLs in ~/.dotfiles/.gitmodules
 call plug#begin('~/.vim/plugged')
