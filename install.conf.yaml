@@ -1,13 +1,9 @@
 - clean: ['~']
 
 - link:
-    ~/.dotfiles: .
     ~/.vim: .vim/
     ~/.vimrc: .vimrc
     ~/.zshrc: .zshrc
-    ./oh-my-zsh/custom:
-      force: true
-      path: .oh-my-custom-zsh/
+    ./oh-my-zsh/custom/jakerl.zsh-theme: .oh-my-custom-zsh/themes/jakerl.zsh-theme
 
-- shell:
-  - [git submodule update --init --recursive, Installing submodules]
+- shell: []
