@@ -1,26 +1,12 @@
 [submodule "dotbot"]
    path = dotbot
    url = https://github.com/anishathalye/dotbot
-
 [submodule "oh-my-zsh"]
    path = oh-my-zsh
    url = https://github.com/ohmyzsh/ohmyzsh 
-
 [submodule "zsh-syntax-highlighting"]
 	path = zsh-syntax-highlighting
 	url = https://github.com/zsh-users/zsh-syntax-highlighting
-
-# vim plugins
-# auto-pair - pairs brackets, quotes, parantheses
-[submodule ".vim/plugged/auto-pairs"]
-   path = .vim/plugged/auto-pairs
-   url = https://github.com/jiangmiao/auto-pairs
-
-# comments/uncomments lines  
-[submodule ".vim/plugged/nerdcommenter"]
-   path = .vim/plugged/nerdcommenter
-   url = https://github.com/scrooloose/nerdcommenter
-
 [submodule "ohmyzsh"]
 	path = ohmyzsh
 	url = https://github.com/ohmyzsh/ohmyzsh
@@ -30,6 +16,3 @@
 [submodule "terminal-app"]
 	path = terminal-app
 	url = https://github.com/dracula/terminal-app.git
-[submodule ".vim/plugged/vim-jdaddy"]
-	path = .vim/plugged/vim-jdaddy
-	url = https://github.com/tpope/vim-jdaddy
