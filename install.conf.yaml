@@ -6,4 +6,4 @@
     ~/.zshrc: .zshrc
     ./oh-my-zsh/custom/jakerl.zsh-theme: .oh-my-custom-zsh/themes/jakerl.zsh-theme
 
-- shell: [chsh -s $(which zsh)]
+- shell: []
