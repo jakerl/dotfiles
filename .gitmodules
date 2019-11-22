@@ -3,8 +3,8 @@
    url = https://github.com/anishathalye/dotbot
 
 [submodule "dracula-theme"]
-   path = dracula-theme
-   url = https://github.com/dracula/dracula-theme/
+	path = dracula-theme
+	url = https://github.com/dracula/dracula-theme/
 
 [submodule "oh-my-zsh"]
    path = oh-my-zsh
@@ -30,3 +30,6 @@
    path = .vim/plugged/nerdcommenter
    url = https://github.com/scrooloose/nerdcommenter
 
+[submodule "ohmyzsh"]
+	path = ohmyzsh
+	url = https://github.com/ohmyzsh/ohmyzsh
