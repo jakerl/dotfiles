@@ -4,10 +4,10 @@ export ZSH=$HOME/.dotfiles/ohmyzsh
 
 # if oh-my-zsh/custom/ is not symlinked to /oh-my-custom-zsh/ (where 'exists' is located)
 # then run the install script that symlinks it
-if [[ ! -f "$ZSH/custom/themes/exists" ]]; then
-   print 'zsh updated - install symlinks'
-   $HOME/.dotfiles/install
-fi
+#if [[ ! -f "$ZSH/custom/themes/exists" ]]; then
+   #print 'zsh updated - install symlinks'
+   #$HOME/.dotfiles/install
+#fi
 
 # set name of the theme to load.
 # look in ~/.oh-my-zsh/themes/

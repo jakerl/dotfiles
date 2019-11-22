@@ -8,4 +8,5 @@
     ./ohmyzsh/plugins/zsh-syntax-highlighting: zsh-syntax-highlighting
     ./ohmyzsh/plugins/notify: zsh-notify
 
-- shell: []
+- shell:
+   - /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
