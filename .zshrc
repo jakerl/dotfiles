@@ -13,7 +13,7 @@ fi
 # look in ~/.oh-my-zsh/themes/
 # optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-export ZSH_THEME="random"
+export ZSH_THEME="robbyrussell"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
