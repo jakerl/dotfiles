@@ -9,6 +9,11 @@ export ZSH=$HOME/.dotfiles/ohmyzsh
    #$HOME/.dotfiles/install
 #fi
 
+# homebrew zsh completions
+if type brew &>/dev/null; then
+  FPATH=$(brew --prefix)/share/zsh/site-functions:$FPATH
+fi
+
 # set name of the theme to load.
 # look in ~/.oh-my-zsh/themes/
 # optionally, if you set this to "random", it'll load a random theme each
@@ -92,3 +97,9 @@ function google() { open /Applications/Safari.app/ "http://www.google.com/search
 
 # forces file to open in a new tab in the existing MacVim window
 alias mvim='open -a MacVim'
+
+# forcibly rebuild zcompdump for homebrew completions
+rm -f ~/.zcompdump; compinit
+
+. /usr/local/opt/asdf/asdf.sh
+. /usr/local/opt/asdf/etc/bash_completion.d/asdf.bash
