@@ -32,6 +32,12 @@ Plug 'jiangmiao/auto-pairs'
 " comments/uncomments lines
 Plug 'scrooloose/nerdcommenter'
 
+" nice json formatting
 Plug 'tpope/vim-jdaddy'
 
+" dracula color scheme
+Plug 'dracula/vim', { 'as': 'dracula' }
+
 call plug#end()
+
+colorscheme dracula
