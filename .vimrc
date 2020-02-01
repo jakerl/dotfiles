@@ -25,6 +25,10 @@ set mouse=a
 " specify submodule URLs in ~/.dotfiles/.gitmodules
 call plug#begin('~/.vim/plugged')
 
+" adds syntax highlighting, matching rules and mappings for the original
+" markdown (http://daringfireball.net/projects/markdown/) and extensions
+Plug 'plasticboy/vim-markdown'
+
 " auto-pairs pairs up the second bracket, parenthesis, quote after inputting
 " the first 
 Plug 'jiangmiao/auto-pairs'
