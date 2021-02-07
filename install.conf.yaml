@@ -20,5 +20,4 @@
    - brew install asdf
    - brew cask install musaicfm
    - brew install openssl libyaml libffi
-   - brew cask install insomnia
    - asdf plugin-add ruby https://github.com/asdf-vm/asdf-ruby.git
