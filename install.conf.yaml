@@ -14,10 +14,18 @@
     ~/Library/Developer/Xcode/UserData/FontAndColorThemes/Dracula.xccolortheme: xcode/Dracula.xccolortheme
 
 - shell:
-   - /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
    - brew install terminal-notifier
    - brew install tmux
    - brew install asdf
-   - brew cask install musaicfm
+
+   # ---------------------------------------------------------------------------------------------
+   # this can obly be run once, until i figure out how to check if this is already in the profile,
+   # let's just leave it commented out
+   #
+   # - echo -e "\n. $(brew --prefix asdf)/asdf.sh" >> ${ZDOTDIR:-~}/.zshrc
+   # ---------------------------------------------------------------------------------------------
+
    - brew install openssl libyaml libffi
    - asdf plugin-add ruby https://github.com/asdf-vm/asdf-ruby.git
+

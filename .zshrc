@@ -48,6 +48,7 @@ plugins=( git zsh-syntax-highlighting notify)
 # User configuration
 
 export PATH="/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/texbin"
+export PATH=/opt/homebrew/bin:$PATH
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -67,5 +68,4 @@ source $ZSH/oh-my-zsh.sh
 # forcibly rebuild zcompdump for homebrew completions
 rm -f ~/.zcompdump; compinit
 
-. /usr/local/opt/asdf/asdf.sh
-. /usr/local/opt/asdf/etc/bash_completion.d/asdf.bash
+. /opt/homebrew/opt/asdf/asdf.sh
